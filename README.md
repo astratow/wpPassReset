@@ -1,4 +1,4 @@
-#WordPress reset app
+# WordPress reset app
 
 This is a PHP function that can be added to current Wordpress theme, to the file functions.php which is located in your theme directory. 
 
